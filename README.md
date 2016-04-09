@@ -8,4 +8,4 @@ An example of class hierarchy for an electronic device structure
 * Java 7
 * Maven
 
-[Prathiba-Lingappan](http://sqasolution.com)
+[Prathiba Lingappan](http://sqasolution.com)
